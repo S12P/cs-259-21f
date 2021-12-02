@@ -109,6 +109,6 @@
 	"search.algorithm.name" : "gradient",
 	"timeout.bitgen" : 480,
 	"timeout.exploration" : 1200,
-	"timeout.hls" : 70,
+	"timeout.hls" : 120,
 	"timeout.transform" : 15
 }
